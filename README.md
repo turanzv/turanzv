@@ -1,6 +1,6 @@
 # Howdy 🤠
 
-I am a cybersecurity consultant at [Accenture](https://www.accenture.com), currently pentesting with [Deja Vu Security](https://github.com/Deja-vu-Security)
+I am a cybersecurity consultant at [Accenture](https://www.accenture.com), currently pentesting with Deja Vu Security
 
 ## 🌎🌍🌏📯
 - [Twitter](https://www.twitter.com/turanzv/)
