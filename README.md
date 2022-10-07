@@ -5,8 +5,4 @@
 🐂Texas Ex
 
 Helping @GoPlusSecurity do great things
-
-## 🌎🌍🌏📯
-- [Twitter](https://www.twitter.com/turanzv/)
-- [LinkedIn](https://www.linkedin.com/in/turanzv/)
-- [Instagram](https://www.instagram.com/turanzv/)
+EIP-5748 Co-Author
