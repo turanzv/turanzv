@@ -1,6 +1,10 @@
-# Howdy 🤠
+# Howdy
 
-I am a cybersecurity consultant at [Accenture](https://www.accenture.com), currently pentesting with Deja Vu Security
+🐻PhD Student @ UCLA
+🇨🇳清华校友, Schwarzman Scholar
+🐂Texas Ex
+
+Helping @GoPlusSecurity do great things
 
 ## 🌎🌍🌏📯
 - [Twitter](https://www.twitter.com/turanzv/)
